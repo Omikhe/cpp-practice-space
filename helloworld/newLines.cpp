@@ -4,7 +4,8 @@ using namespace std;
 int main()
 {
 //your code here
-cout << "I'm line one \n";
+// cout << "I'm line one \n";
+cout << "I'm line one"<<endl;
 cout << "I'm line two (pun intended)!"; 
 return 0;
 }
