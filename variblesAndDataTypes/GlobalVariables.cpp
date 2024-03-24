@@ -1,7 +1,14 @@
 #include <iostream>
 using namespace std;
+
+// global variable declaration:
+int g = 20;
+
 int main()
 {
-//your code here
+    // updating the global variable 
+    g = 10;
+    cout << g <<endl;
+
 return 0;
 }
